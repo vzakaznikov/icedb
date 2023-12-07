@@ -17,7 +17,7 @@ setup(
     install_requires=[
         "boto3==1.26.151",
         "botocore==1.29.151",
-        "duckdb==0.8.1",
+        "duckdb==0.9.2",
         "pyarrow==12.0.1"
     ],
     keywords=['olap', 'icedb', 'data lake', 'parquet', 'data warehouse', 'analytics'],
